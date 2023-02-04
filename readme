@@ -1,0 +1,57 @@
+Use your projectStarter script to create a project named "W3C"
+Connect your folder to Git/GitHub
+Create one new HTML file in your pages folder, products.html
+Create one new CSS file in your css folder, products.css
+In your index.html link to your style.css and add:
+A standard header, main footer with a typical grid based layout
+In the header, add a logo on the left and 1 link on the right to the other page
+You can just use the text "LOGO" if you don't have an image you want to use
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+In the main add the following:
+One section that contains a "highlight product" with an image, title, description and price
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+One section that contains a picture of you, the store owner and your story (you can just use fake text here)
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+In the footer add the following:
+A column of links to social media
+A column of buttons for emailing and calling you
+A column of buttons for "privacy policy" and "newsletter"
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+ 
+
+In your products.html, link to your products.css and add:
+A standard header, main footer with a typical grid based layout
+In the header, add a logo on the left and 1 link on the right to the other page
+You can just use the text "LOGO" if you don't have an image you want to use
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+In the main add the following:
+10 articles that contain products. Each product will be made of:
+1 image, 1 title, 1 description and 1 price (you can re-use the same image, title, description and price for all)
+Turn the articles into their own grid, manipulate these products until you like the style
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+In the footer add the following:
+A column of links to social media
+A column of buttons for emailing and calling you
+A column of buttons for "privacy policy" and "newsletter"
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+ 
+
+BONUS:
+
+Create one new HTML file in your pages folder, contact.html
+Create one new CSS file in your css folder, contact.css
+In your contact.html, link to your contact.css and add:
+A standard header, main footer with a typical grid based layout
+In the header, add a logo on the left and 2 links on the right to the other pages
+You can just use the text "LOGO" if you don't have an image you want to use
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+In the main add the following:
+2 articles:
+1 that contains a google map embedded pointing to a shop of your choosing (any shop is fine)
+1 article that contains the store hours of operation for each day of the week
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
+In the footer add the following:
+A column of links to social media
+A column of buttons for emailing and calling you
+A column of buttons for "privacy policy" and "newsletter"
+Have this be a layout that that collapses into rows as the screen gets smaller and creates columns as the screen gets larger
